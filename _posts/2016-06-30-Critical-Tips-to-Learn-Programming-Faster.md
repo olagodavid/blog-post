@@ -1,7 +1,8 @@
 ---
-# Critical Tips to Learn Programming Faster
+layout: post
+title: Critical Tips to Learn Programming Faster
 ---
-## 1. Learn by doing. Always play with the code while learning
+ 1. Learn by doing. Always play with the code while learning
 With every new subject, the sooner you start playing with the code, the faster you will learn the given concepts. Even if you blaze through an entire chapter of reading and a topic like for loops seems straightforward – so straightforward even a monkey could do it – you’ll still be scratching your head when tasked to implement the code for the first time. You’ll think, “wait, what was that one piece of syntax again?” As the saying goes, you need to “use it or lose it”, because despite the evolution of technology, this ole’ proverb holds true when learning to code.
 
 **Hint: Build a project as you go through the material. A personal project is often the best starting point**

@@ -1,5 +1,6 @@
 ---
-# Welcome to Computer Repair at Rutgers
+layout: post
+title: Welcome to Computer Repair at Rutgers
 ---
 Rutgers University Computer Repair Shop is a fee based service offered at Rutgers University. We have highly trained technicians that can repair virtually any warranty and non-warranty laptop, desktop, printer and iPhone.
 

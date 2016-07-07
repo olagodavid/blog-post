@@ -3,7 +3,7 @@ layout: post
 title: OOP
 ---
 
-<h1>This is OOP!</h1>
+This is OOP!
 OOP is great and allows us a tremendous amount of flexibility for having multiple systems interacting with the same data / logic. However, there is certainly a situation in which you wouldn't want to bother loading up a lot of objects.. Namely, when you are simply pulling data for tabular display.
 
 Querying a database and getting a simple record set back that is immediately emitted to the browser usually doesn't need OOP involved. As a matter of fact you might want to sidestep OOP completely as tabular data usually involves a roll up of other information (sums of child records) and you normally don't want to pull more data from the database than what you are actually using. ie. if you are only showing the name and email you probably don't want to grab the user name as that is just wasted cycles.

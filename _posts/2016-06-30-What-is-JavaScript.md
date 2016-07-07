@@ -1,5 +1,6 @@
 ---
-# What is JavaScript
+layout: post
+title: What is JavaScript
 ---
 **JavaScript is a programming language that adds interactivity to your website (for example: games, responses when buttons are pressed or data entered in forms, dynamic styling, animation). This article helps you get started with this exciting language and gives you an idea of what is possible.**
 

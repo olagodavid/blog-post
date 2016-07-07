@@ -1,6 +1,6 @@
 ---
-# Networking Basics
-## What You Need To Know
+layout: post
+title: Networking Basics
 ---
 When looking at networking basics, understanding the way a network operates is the first step to understanding routing and switching. The network operates by connecting computers and peripherals using two pieces of equipment; switches and routers. Switches and routers, essential networking basics, enable the devices that are connected to your network to communicate with each other, as well as with other networks.
 

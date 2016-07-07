@@ -1,5 +1,6 @@
 ---
-# How Browsers Work
+layout: post
+title: How Browsers Work
 ---
 **The browser's main components are (1.1):** 
 

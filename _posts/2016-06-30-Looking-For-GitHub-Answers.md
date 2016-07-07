@@ -1,7 +1,8 @@
 ---
-# Looking For GitHub Answers
+layout: post
+title: Looking For GitHub Answers
 ---
-## What Is Git?
+ What Is Git?
 Thank famed software developer Linus Torvalds for Git, the software that runs at the heart of GitHub. (And while you’re at it, go ahead thank him for the Linux operating system, too.) Git is version control software, which means it manages changes to a project without overwriting any part of that project. And it’s not going away anytime soon, particularly since Torvalds and his fellow kernel developers employ Git to help develop the core kernel for Linux.
 
 Why use something like Git? Say you and a coworker are both updating pages on the same website. You make your changes, save them, and upload them back to the website. So far, so good. The problem comes when your coworker is working on the same page as you at the same time. One of you is about to have your work overwritten and erased.
